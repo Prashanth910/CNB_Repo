@@ -1,6 +1,8 @@
 class ashok{
 aws 'prashanth'
 
+devops 'prashanth'
+
 main
 
 system.out.println("ashok.it");
